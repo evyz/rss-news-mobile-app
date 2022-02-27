@@ -17,5 +17,7 @@ npm run start
 ```
 
 ## Скриншоты приложения: 
-![first](./assets/screenshoots/photo_2022-02-27_16-04-26.jpg)
-![second](./assets/screenshoots/photo_2022-02-27_16-04-25.jpg)
+<div>
+  <image src="./assets/screenshoots/photo_2022-02-27_16-04-26.jpg" width="300" />
+  <image src="./assets/screenshoots/photo_2022-02-27_16-04-25.jpg" width="300" />
+</div>
